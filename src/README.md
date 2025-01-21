@@ -119,5 +119,8 @@ The algorithm outputs:
  - Python 3.7+
  - NumPy
 
+ ## Note
+This code is inspired by the lectures and course materials presented in the Computational Intelligence course (01URROV)
+
 
 
